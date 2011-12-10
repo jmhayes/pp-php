@@ -10,6 +10,6 @@ The OLE/COM interface is documented in the help files in the application.
 After downloading, you'll want to make a file called pp-config-local.php
 which overrides the value of $PPdir if your logs are located elsewhere.
 
-A simple utility pp-dump.php is provided.
+A simple utility pp-example.php is provided.
 
 Questions?  jmhayes@j-o-r-d-a-n.com
