@@ -1,0 +1,15 @@
+This is a PHP wrapper for the OLE/COM interface provided by PlanePlotter
+
+More information available here:
+
+http://www.coaa.co.uk/planeplotter.htm
+http://groups.yahoo.com/group/planeplotter/
+
+The OLE/COM interface is documented in the help files in the application.
+
+After downloading, you'll want to make a file called pp-config-local.php
+which overrides the value of $PPdir if your logs are located elsewhere.
+
+A simple utility pp-dump.php is provided.
+
+Questions?  jmhayes@j-o-r-d-a-n.com
